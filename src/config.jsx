@@ -1,8 +1,8 @@
 const SETUP = {
         // reactHost: "https://velofg.herokuapp.com",
         // goHost: "https://velofggorest.herokuapp.com"
-        reactHost: "http://127.0.0.1",
-        goHost: "http://test2-am8bxe:8080"
+        reactHost: "http://test3-prod-test-2iu7y9.mo4.mogenius.io:80",
+        goHost: "http://test2-prod-test-2iu7y9.mo4.mogenius.io:80"
     };
 
 export default SETUP
